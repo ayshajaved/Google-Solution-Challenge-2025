@@ -90,6 +90,15 @@ Look for inspiration from these sources:
 
 ---
 
+## Pakistan-Specific SDG Spotlight
+Here’s where Pakistan struggles—could you solve one?
+- **SDG 4 (Education)**: 22 million kids out of school (UNICEF, 2023).
+- **SDG 6 (Water)**: 70% of water sources contaminated (Pakistan Council of Research).
+- **SDG 13 (Climate)**: Frequent floods displace thousands yearly (e.g., 2022 floods).
+Pick a local pain point—judges love rooted, authentic ideas!
+
+---
+
 ## What to Prioritize
 Not all problems are equal. Focus on these traits to stand out:
 - **Urgency**: Is it a pressing issue? (e.g., flood warnings vs. a vague “better future”).
@@ -113,6 +122,33 @@ Judges love passion! Pick a problem you or your community care about deeply—yo
 
 ---
 
+## Team Brainstorming Tips
+If you’re working in a team, try these to pick a problem together:
+- **Round-Robin**: Each member shares one SDG idea—vote on the top 3.
+- **SWOT Analysis**: Assess Strengths, Weaknesses, Opportunities, Threats for each problem.
+- **Local Lens**: Combine personal experiences (e.g., one teammate’s rural hometown struggles).
+- **Skill Match**: Pick a problem that leverages your coder, designer, or presenter’s strengths.
+
+---
+
+## Validation Mini-Experiment
+Before finalizing, test your problem’s relevance:
+- **Quick Survey**: Ask 5-10 people (friends, locals) if they face this issue.
+- **X Poll**: Post a question (e.g., “Do floods affect your crops?”) and check responses.
+- **Prototype Sketch**: Draw a basic app screen—does it feel useful?
+Example: For SDG 6 (Water), ask rural neighbors if water quality worries them.
+
+---
+
+## Google Tech Teaser
+Once you pick a problem, Google tech can bring it to life:
+- **Health Issue?** TensorFlow could detect symptoms.
+- **Water Crisis?** Google Cloud could track data.
+- **Education Gap?** Flutter could build a sleek app.
+Think ahead—your problem should play to Google’s strengths!
+
+---
+
 ## Problem Identification Checklist
 Before moving to Step 2, tick off these boxes to ensure your problem is solid:
 - [ ] **SDG-Aligned**: Does it clearly tie to one or more of the 17 SDGs?
@@ -129,6 +165,12 @@ Before moving to Step 2, tick off these boxes to ensure your problem is solid:
 3. **Narrow Down**: Pick one problem based on urgency, feasibility, and passion.
 4. **Define It**: Write a 1-sentence problem statement.  
    - Example: “Rural Pakistani farmers lack real-time flood alerts, risking crop loss (SDG 13).”
+
+---
+
+## Inspiration Hook
+“Small ideas can change the world—one SDG at a time.”  
+Start here, and by March 28, 2025, your solution could be in Google’s Top 100!
 
 ---
 
