@@ -5,22 +5,50 @@ Welcome to the ultimate resource hub for the **Google Solution Challenge 2025**!
 ---
 
 ## 🌟 What’s This About?
-The Google Solution Challenge is an annual competition for university students to solve real-world problems with tech. This repository breaks it down into actionable steps, packed with tips, examples, and resources to help you succeed. From identifying a problem to submitting your demo, I’ve got you covered—updated as of **March 15, 2025**.
+The Google Solution Challenge is an annual competition for university students to solve real-world problems with tech. This repository breaks it down into 9 actionable steps, packed with tips, examples, and resources to help you succeed. From joining a GDSC to submitting your demo, I’ve got you covered—updated as of **March 15, 2025**.
 
 ---
 
 ## 📂 Repository Structure
-Here’s the roadmap to your Google Solution Challenge victory:
+Here’s the 9-step roadmap to your Google Solution Challenge victory:
 
-1. **[Step 1: Identifying the Problem](Step_1_Identifying_the_Problem.md)**  
-   - Learn how to pick a meaningful, SDG-aligned problem that’s urgent, feasible, and impactful.  
-   - Includes examples, research tips, and a checklist to nail your idea.
+1. **[Step 1: Join a Google Developer Student Club](Step_1_Join_a_Google_Developer_Student_Club.md)**  
+   - Kickstart your journey by joining a GDSC—your gateway to the challenge!  
+   - Includes tips on finding or starting a club and connecting with peers.
 
-2. **[Step 2: Defining the Solution](Step_2_Defining_the_Solution.md)**  
-   - Brainstorm and design a functional solution using Google tech (e.g., Firebase, TensorFlow).  
-   - Tips on prototyping, leveraging Google tools, and planning your build.
+2. **[Step 2: Form a Team and Register](Step_2_Form_a_Team_and_Register.md)**  
+   - Build your dream team (1-4 members) and sign up for the challenge.  
+   - Tips on team roles, registration, and collaboration tools.
 
-*More steps coming soon—stay tuned for coding, testing, and submission guides!*
+3. **[Step 3: Select a UN Sustainable Development Goal](Step_3_Select_a_UN_Sustainable_Development_Goal.md)**  
+   - Pick an SDG that inspires you—from ending poverty to fighting climate change.  
+   - Includes SDG examples and how to align your passion with global goals.
+
+4. **[Step 4: Identify a Solution](Step_4_Identify_a_Solution.md)**  
+   - Brainstorm a practical tech solution to address your chosen SDG problem.  
+   - Features examples, research tips, and a checklist to nail your idea.
+
+5. **[Step 5: Design the User Interface](Step_5_Design_the_User_Interface.md)**  
+   - Create a user-friendly UI for your app or tool using tools like Flutter.  
+   - Tips on prototyping, user flows, and designing for your audience.
+
+6. **[Step 6: Design the Backend Technology](Step_6_Design_the_Backend_Technology.md)**  
+   - Build a robust backend with Google tech like Firebase or Google Cloud.  
+   - Guides on data storage, APIs, and scalability.
+
+7. **[Step 7: Test Your Solution](Step_7_Test_Your_Solution.md)**  
+   - Test your project with real users to ensure it works and solves the problem.  
+   - Strategies for debugging, user feedback, and stress testing.
+
+8. **[Step 8: Iterate on Your Project](Step_8_Iterate_on_Your_Project.md)**  
+   - Refine your solution based on feedback to maximize impact.  
+   - Tips on polishing features, improving UX, and adding scalability.
+
+9. **[Step 9: Record and Submit](Step_9_Record_and_Submit.md)**  
+   - Finalize your 2-minute demo video and submit by March 28, 2025!  
+   - Includes video tips, submission checklist, and GitHub repo setup.
+
+*Follow along as each step drops—your path to victory starts here!*
 
 ---
 
@@ -34,7 +62,7 @@ Here’s the roadmap to your Google Solution Challenge victory:
 
 ## 💡 How to Use This
 1. **Clone or Fork**: Grab this repo and follow along.
-2. **Read Step-by-Step**: Start with Step 1, then move to Step 2, and beyond.
+2. **Read Step-by-Step**: Start with Step 1, then move through all 9 steps.
 3. **Contribute**: Have an idea or tip? Open a pull request—I’d love your input!
 4. **Ask Questions**: Reach out if you’re stuck (see below).
 
@@ -64,7 +92,7 @@ I’m **Ayesha Javed**, a passionate student leader at COMSATS University Lahore
 - **Share** with your GDSC crew on WhatsApp, LinkedIn, or X.
 - **Collaborate**: Let’s brainstorm and win together—drop your ideas in the issues tab!
 
-*"Small ideas can change the world—one SDG at a time."*  
+*"Code the future, solve the world—Google Solution Challenge 2025 awaits!"*  
 Let’s do this! 💪
 
 ---
