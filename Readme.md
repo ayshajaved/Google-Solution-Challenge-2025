@@ -24,15 +24,15 @@ Here’s the 9-step roadmap to your Google Solution Challenge victory:
    - Pick an SDG that inspires you—from ending poverty to fighting climate change.  
    - Includes SDG examples and how to align your passion with global goals.
 
-4. **[Step 4: Identify a Solution](Step_4_Identify_a_Solution.md)**  
+4. **[Step 4: Identify a Solution](SolutionChallengeSteps\4_IdentifyingTheProblem.md)**  
    - Brainstorm a practical tech solution to address your chosen SDG problem.  
    - Features examples, research tips, and a checklist to nail your idea.
 
-5. **[Step 5: Design the User Interface](Step_5_Design_the_User_Interface.md)**  
+5. **[Step 5: Design the User Interface](SolutionChallengeSteps\5_DefiningTheSolution.md)**  
    - Create a user-friendly UI for your app or tool using tools like Flutter.  
    - Tips on prototyping, user flows, and designing for your audience.
 
-6. **[Step 6: Design the Backend Technology](Step_6_Design_the_Backend_Technology.md)**  
+6. **[Step 6: Design the Backend Technology](SolutionChallengeSteps\6_BuildandTest.md)**  
    - Build a robust backend with Google tech like Firebase or Google Cloud.  
    - Guides on data storage, APIs, and scalability.
 
