@@ -1,4 +1,4 @@
-# Step 2: Defining the Solution
+# Step 5: Defining the Solution
 
 Congrats on nailing Step 1—identifying a real-world problem tied to the United Nations’ 17 Sustainable Development Goals (SDGs)! Now, it’s time to craft a **winning solution** for the Google Solution Challenge 2025. In this guide, we’ll walk through how to brainstorm, design, and refine a functional tech solution using Google technologies. Let’s turn your problem into an impactful project by **March 28, 2025**!
 

@@ -1,4 +1,4 @@
-# Step 1: Identifying the Problem
+# Step 4: Identifying the Problem
 
 The first step to winning the Google Solution Challenge 2025 is finding a **real-world problem** tied to the United Nations’ 17 Sustainable Development Goals (SDGs). Your solution must address an SDG, so let’s break down how to identify a meaningful, solvable problem in this guide.
 
