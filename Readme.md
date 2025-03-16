@@ -20,7 +20,7 @@ Here’s the 9-step roadmap to your Google Solution Challenge victory:
    - Build your dream team (1-4 members) and sign up for the challenge.  
    - Tips on team roles, registration, and collaboration tools.
 
-3. **[Step 3: Select a UN Sustainable Development Goal](3_SelectGoal.md)**  
+3. **[Step 3: Select a UN Sustainable Development Goal](SolutionChallengeSteps\3_SelectGoal.md)**  
    - Pick an SDG that inspires you—from ending poverty to fighting climate change.  
    - Includes SDG examples and how to align your passion with global goals.
 
