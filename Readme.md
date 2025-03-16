@@ -12,11 +12,11 @@ The Google Solution Challenge is an annual competition for university students t
 ## 📂 Repository Structure
 Here’s the 9-step roadmap to your Google Solution Challenge victory:
 
-1. **[Step 1: Join a Google Developer Student Club](1_JoiningGDSC.md)**  
+1. **[Step 1: Join a Google Developer Student Club](SolutionChallengeSteps\1_JoiningGDSC.md)**  
    - Kickstart your journey by joining a GDSC—your gateway to the challenge!  
    - Includes tips on finding or starting a club and connecting with peers.
 
-2. **[Step 2: Form a Team and Register](2_FormingTeam.md)**  
+2. **[Step 2: Form a Team and Register](SolutionChallengeSteps\2_FormingTeam.md)**  
    - Build your dream team (1-4 members) and sign up for the challenge.  
    - Tips on team roles, registration, and collaboration tools.
 
