@@ -12,39 +12,39 @@ The Google Solution Challenge is an annual competition for university students t
 ## 📂 Repository Structure
 Here’s the 9-step roadmap to your Google Solution Challenge victory:
 
-1. **[Step 1: Join a Google Developer Student Club](SolutionChallengeSteps\1_JoiningGDSC.md)**  
+1. **Step 1: Join a Google Developer Student Club**  
    - Kickstart your journey by joining a GDSC—your gateway to the challenge!  
    - Includes tips on finding or starting a club and connecting with peers.
 
-2. **[Step 2: Form a Team and Register](SolutionChallengeSteps\2_FormingTeam.md)**  
+2. **Step 2: Form a Team and Register**
    - Build your dream team (1-4 members) and sign up for the challenge.  
    - Tips on team roles, registration, and collaboration tools.
 
-3. **[Step 3: Select a UN Sustainable Development Goal](SolutionChallengeSteps\3_SelectGoal.md)**  
+3. **Step 3: Select a UN Sustainable Development Goal**  
    - Pick an SDG that inspires you—from ending poverty to fighting climate change.  
    - Includes SDG examples and how to align your passion with global goals.
 
-4. **[Step 4: Identify a Solution](SolutionChallengeSteps\4_IdentifyingTheProblem.md)**  
+4. **Step 4: Identify a Solution**  
    - Brainstorm a practical tech solution to address your chosen SDG problem.  
    - Features examples, research tips, and a checklist to nail your idea.
 
-5. **[Step 5: Design the User Interface](SolutionChallengeSteps\5_DefiningTheSolution.md)**  
+5. **Step 5: Design the User Interface**  
    - Create a user-friendly UI for your app or tool using tools like Flutter.  
    - Tips on prototyping, user flows, and designing for your audience.
 
-6. **[Step 6: Design the Backend Technology](SolutionChallengeSteps\6_BuildandTest.md)**  
+6. **Step 6: Design the Backend Technology**  
    - Build a robust backend with Google tech like Firebase or Google Cloud.  
    - Guides on data storage, APIs, and scalability.
 
-7. **[Step 7: Test Your Solution](Step_7_Test_Your_Solution.md)**  
+7. **Step 7: Test Your Solution**  
    - Test your project with real users to ensure it works and solves the problem.  
    - Strategies for debugging, user feedback, and stress testing.
 
-8. **[Step 8: Iterate on Your Project](Step_8_Iterate_on_Your_Project.md)**  
+8. **Step 8: Iterate on Your Project**  
    - Refine your solution based on feedback to maximize impact.  
    - Tips on polishing features, improving UX, and adding scalability.
 
-9. **[Step 9: Record and Submit](Step_9_Record_and_Submit.md)**  
+9. **Step 9: Record and Submit**  
    - Finalize your 2-minute demo video and submit by March 28, 2025!  
    - Includes video tips, submission checklist, and GitHub repo setup.
 
