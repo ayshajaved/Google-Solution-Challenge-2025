@@ -67,7 +67,6 @@ The SDGs are 17 interconnected goals established by the United Nations in 2015 t
   - Include a GitHub repo with your code and a README with setup instructions (e.g., “Install Flutter, run `flutter run`”).
 
 ### Submission Requirements
-- **Deadline**: Submit by **March 28, 2025**, 11:59 PM your local time.
 - **Components**:
   1. **Demo Video**: A 2-minute video (uploaded to YouTube, public or unlisted) demonstrating your project in action—show functionality, user interaction, and Google tech usage.
   2. **Project Form**: Complete the form at [goo.gle/solutionchallenge](https://goo.gle/solutionchallenge) with:
