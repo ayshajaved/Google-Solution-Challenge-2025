@@ -5,7 +5,7 @@ Welcome to the ultimate resource hub for the **Google Solution Challenge 2025**!
 ---
 
 ## 🌟 What’s This About?
-The Google Solution Challenge is an annual competition for university students to solve real-world problems with tech. This repository breaks it down into 9 actionable steps, packed with tips, examples, and resources to help you succeed. From joining a GDSC to submitting your demo, I’ve got you covered—updated as of **March 15, 2025**.
+The Google Solution Challenge is an annual competition for university students to solve real-world problems with tech. This repository breaks it down into 9 actionable steps, packed with tips, examples, and resources to help you succeed. From joining a GDGoC to submitting your demo.
 
 ---
 
@@ -13,12 +13,12 @@ The Google Solution Challenge is an annual competition for university students t
 Here’s the 9-step roadmap to your Google Solution Challenge victory:
 
 1. **Step 1: Join a Google Developer Student Club**  
-   - Kickstart your journey by joining a GDSC—your gateway to the challenge!  
+   - Kickstart your journey by joining a GDGoC—your gateway to the challenge!  
    - Includes tips on finding or starting a club and connecting with peers.
 
 2. **Step 2: Form a Team and Register**
-   - Build your dream team (1-4 members) and sign up for the challenge.  
-   - Tips on team roles, registration, and collaboration tools.
+   - Build your dream team (1-4 members) and sign up at [goo.gle/solutionchallenge](https://bit.ly/3DQZ8uq), for the challenge.  
+   - Tips on team roles, registration, and collaboration tools
 
 3. **Step 3: Select a UN Sustainable Development Goal**  
    - Pick an SDG that inspires you—from ending poverty to fighting climate change.  
@@ -45,7 +45,7 @@ Here’s the 9-step roadmap to your Google Solution Challenge victory:
    - Tips on polishing features, improving UX, and adding scalability.
 
 9. **Step 9: Record and Submit**  
-   - Finalize your 2-minute demo video and submit by March 28, 2025!  
+   - Finalize your 2-minute demo video and submit by April 30, 2025!  
    - Includes video tips, submission checklist, and GitHub repo setup.
 
 *Follow along as each step drops—your path to victory starts here!*
@@ -71,12 +71,10 @@ Here’s the 9-step roadmap to your Google Solution Challenge victory:
 ## 🛠️ Tools & Resources
 - **Google Tech**: Firebase, TensorFlow, Flutter, Google Cloud, and more.
 - **Inspiration**: Past Demo Days on YouTube, UN SDG data, X posts.
-- **Support**: $300 Google Cloud credits, GDSC mentorship—sign up at [goo.gle/solutionchallenge](https://goo.gle/solutionchallenge).
-
 ---
 
 ## 🌍 Let’s Make an Impact
-The deadline’s **March 28, 2025**—plenty of time to create something amazing. Whether it’s an app for rural education or a tool to fight climate change, your solution could land in Google’s Top 100 or even win big (up to $3,000 per team member for Top 3!).
+The deadline’s **April 30, 2025**—plenty of time to create something amazing. Whether it’s an app for rural education or a tool to fight climate change, your solution could land in Google’s Top 100 or even win big (up to $3,000 per team member for Top 3!).
 
 ---
 
@@ -89,12 +87,12 @@ I’m **Ayesha Javed**, a passionate student leader at COMSATS University Lahore
 
 ## 🤝 Join the Journey
 - **Star this repo** to stay updated as new steps drop.
-- **Share** with your GDSC crew on WhatsApp, LinkedIn, or X.
+- **Share** with your GDGoC crew on WhatsApp, LinkedIn, or X.
 - **Collaborate**: Let’s brainstorm and win together—drop your ideas in the issues tab!
 
-*"Code the future, solve the world—Google Solution Challenge 2025 awaits!"*  
+*"Code the future, solve the world—Google Solution Challenge 2025 (GSC)awaits!"*  
 Let’s do this! 💪
 
 ---
 
-*Last Updated: March 15, 2025*
+*Last Updated: March 18, 2025*

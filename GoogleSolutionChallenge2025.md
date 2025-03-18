@@ -80,7 +80,7 @@ The SDGs are 17 interconnected goals established by the United Nations in 2015 t
 
 ### GDSC Membership Requirement
 - **Mandatory**: At least one team member must be part of a GDGoC by the submission deadline(30 April)
-- **How to Join**: Sign up via [goo.gle/solutionchallenge](https://bit.ly/3DQZ8uq) or connect with a nearby GDGoC (e.g., COMSATS Lahore, NUST Islamabad).
+- **How to Join**:Connect with a nearby GDGoC (e.g., COMSATS Lahore, NUST Islamabad).
 - **GDG vs. GDSC**: GDG is for professionals; GDGoC is student-focused—this requires GDSC affiliation.
 
 ### Judging Criteria
