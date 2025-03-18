@@ -1,8 +1,6 @@
 # Step 6: Build and Test Your Solution
 
-You’ve defined an amazing solution for your chosen UN Sustainable Development Goal (SDG)—congratulations! Now, it’s time to bring it to life in **Step 6: Build and Test Your Solution** for the Google Solution Challenge 2025. This step transforms your idea into a functional project using Google technologies, followed by rigorous testing to ensure it solves the problem. Let’s roll up our sleeves and make it happen by March 28, 2025!
-
-Written by **Ayesha Javed**, GDGoC ML & AI Co-Lead at COMSATS University Lahore, as of March 15, 2025.
+You’ve defined an amazing solution for your chosen UN Sustainable Development Goal (SDG)—congratulations! Now, it’s time to bring it to life in **Step 6: Build and Test Your Solution** for the Google Solution Challenge 2025. This step transforms your idea into a functional project using Google technologies, followed by rigorous testing to ensure it solves the problem. Let’s roll up our sleeves and make it happen by April 30, 2025!
 
 ---
 
@@ -26,7 +24,7 @@ Follow these detailed steps to develop and validate your project.
   - **Flutter**: For cross-platform app development.
   - **Google Cloud**: For hosting or processing large datasets.
   - **Google Maps**: For location-based features (e.g., flood zones).
-- **Set Milestones**: Aim for a basic version by March 20, 2025, and a polished one by March 25, 2025, leaving time for testing.
+- **Set Milestones**: Aim for a basic version by March 20, 2025, and a polished one, leaving time for testing.
 
 ### 2. Build the Solution
 - **Start with UI**: Use Flutter to design an intuitive interface. For example, create a simple screen with a map and alert button for a flood app.
@@ -36,7 +34,7 @@ Follow these detailed steps to develop and validate your project.
   - Write clean, commented code on GitHub.
   - Use version control (e.g., commit daily: “Added Firebase integration”).
   - Test small pieces as you go (e.g., check if alerts work before adding maps).
-- **Use Resources**: Tap into your $300 Google Cloud credits and GDSC workshops for guidance.
+- **Use Resources**: Tap into your $300 Google Cloud credits and GDGoC workshops for guidance.
 
 ### 3. Test Your Solution
 - **Define Success Criteria**: Set clear goals—e.g., “90% of users receive flood alerts within 5 seconds” for SDG 13.
@@ -54,9 +52,9 @@ Follow these detailed steps to develop and validate your project.
 
 ## Practical Tips for Success
 - **Start Small**: Build a minimum viable product (MVP) first—e.g., a basic alert app—then add features.
-- **Leverage GDSC Support**: Ask your mentor for code reviews or debugging help during GDSC sessions.
+- **Leverage GDGoC Support**: Ask your mentor for code reviews or debugging help during GDGoC sessions.
 - **Use Local Context**: In Pakistan, test with rural users (e.g., Punjab farmers for SDG 4) to ensure relevance.
-- **Time Management**: Allocate 2 weeks (March 15-28, 2025) for building and 1 week for testing.
+- **Time Management**: Allocate 2 weeks for building and 1 week for testing.
 - **Document Progress**: Share weekly updates on GitHub or WhatsApp to keep your team aligned.
 
 ## Challenges to Watch For
@@ -70,20 +68,9 @@ Follow these detailed steps to develop and validate your project.
 - **SDG 6 (Clean Water)**: Develop a water quality tracker with Google Cloud, test with Karachi residents using local water samples.
 - **SDG 13 (Climate Action)**: Create a flood alert system with Firebase, test with Sindh farmers to verify alert accuracy.
 
-## Quick Build and Test Example
-- **Project**: “FloodGuard App” (SDG 13, GDSC COMSATS Lahore team)
-- **Build**:
-  - UI: Flutter app with a map and alert button.
-  - Backend: Firebase for real-time alerts, Google Maps for flood zones.
-  - Timeline: MVP by March 20, full version by March 25.
-- **Test**:
-  - Criteria: Alerts reach 10 users in 5 seconds.
-  - Method: Tested with 5 GDSC peers, then 5 Sindh farmers.
-  - Feedback: Added offline mode due to poor rural internet.
-  - Result: 95% success rate after fixes.
-- **Next Step**: Move to iteration and submission.
-
 ## Next Steps
-With your solution built and tested, you’re almost there! Proceed to **Step 7: Iterate and Submit** to refine your project and submit your demo video by March 28, 2025. Need help with coding, testing, or integrating Google tech? Reach out to me at [ayshajavd@gmail.com](mailto:ayshajavd@gmail.com) or [www.linkedin.com/in/ayeshajavedgen](https://www.linkedin.com/in/ayeshajavedgen). Let’s code the future together!
+With your solution built and tested, you’re almost there! Proceed to **Step 7: Iterate and Submit** to refine your project and submit your demo video.
+
+Let’s code the future together!
 
 ---
