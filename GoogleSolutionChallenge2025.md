@@ -9,7 +9,7 @@ Welcome to the definitive resource for the **Google Solution Challenge 2025**, a
 ### What is the Google Solution Challenge?
 - **Overview**: The Google Solution Challenge 2025 is an annual competition hosted by Google, inviting university students worldwide to develop innovative, functional projects—such as apps, websites, or hybrid solutions—using at least one Google technology (e.g., Firebase, TensorFlow, Google Cloud). These projects must address a pressing issue aligned with the United Nations’ 17 Sustainable Development Goals (SDGs), including poverty reduction, healthcare improvement, or climate action.
 - **Mission**: This challenge aims to enhance your technical skills, foster collaboration (or solo effort), and drive meaningful global or local impact by 2030.
-- **Target Audience**: Open to all university students (undergraduate or graduate) affiliated with a Google Developer Student Club (GDSC) or eager to join one. No prior experience is necessary—everyone is welcome!
+- **Target Audience**: Open to all university students (undergraduate or graduate) affiliated with a Google Developer Student Club (GSC) or eager to join one. No prior experience is necessary—everyone is welcome!
 
 ### What Should You Build?
 - **Requirement**: You must create a **functional solution**—a working tech product (e.g., a mobile app, web platform, or hardware-software integration) that tackles an SDG-related problem, not just a theoretical concept.
@@ -79,9 +79,9 @@ The SDGs are 17 interconnected goals established by the United Nations in 2015 t
 - **One Entry Per Person**: You cannot submit both solo and as part of a team—choose one entry per year.
 
 ### GDSC Membership Requirement
-- **Mandatory**: At least one team member must be part of a GDSC by the submission deadline.
-- **How to Join**: Sign up via [goo.gle/solutionchallenge](https://goo.gle/solutionchallenge) or connect with a nearby GDSC (e.g., COMSATS Lahore, NUST Islamabad).
-- **GDG vs. GDSC**: GDG is for professionals; GDSC is student-focused—this requires GDSC affiliation.
+- **Mandatory**: At least one team member must be part of a GDGoC by the submission deadline(30 April)
+- **How to Join**: Sign up via [goo.gle/solutionchallenge](https://goo.gle/solutionchallenge) or connect with a nearby GDGoC (e.g., COMSATS Lahore, NUST Islamabad).
+- **GDG vs. GDSC**: GDG is for professionals; GDGoC is student-focused—this requires GDSC affiliation.
 
 ### Judging Criteria
 - **Evaluation**: Projects are scored on:
@@ -146,25 +146,6 @@ Explore these top 10 projects from previous years for motivation:
 - **Diverse Skills**: Include a coder, designer, and presenter if possible to cover all bases.
 - **Collaboration Tools**: Use GitHub for code, WhatsApp for communication, and schedule weekly check-ins.
 
-### Detailed Timeline for Success
-- **January 2025 (Preparation Phase)**:
-  - Week 1-2: Join a GDSC and attend an orientation session.
-  - Week 3-4: Brainstorm SDG ideas with your team and research local issues (e.g., Sindh floods for SDG 13).
-- **February 2025 (Development Phase)**:
-  - Week 1-2: Select your SDG, define the problem, and plan your solution.
-  - Week 3-4: Start coding with Google tech (e.g., Firebase setup), test initial features with peers.
-- **March 2025 (Finalization Phase)**:
-  - Week 1 (March 1-7): Build core functionality, integrate Google tools, and gather initial user feedback.
-  - Week 2 (March 8-14): Refine UI/UX, fix bugs, and plan your demo video.
-  - Week 3 (March 15-21): Conduct final testing with target users (e.g., Punjab students for SDG 4), iterate based on feedback.
-  - Week 4 (March 22-28):
-    - March 22-25: Record and edit your 2-minute demo video.
-    - March 26-27: Finalize GitHub repo, double-check links, and prepare submission.
-    - **March 28, 2025**: Submit by 11:59 PM local time via [goo.gle/solutionchallenge](https://goo.gle/solutionchallenge).
-- **April-June 2025 (Post-Submission Phase)**:
-  - April 2025: Await Top 100 announcement (expected mid-April).
-  - May-June 2025: If selected, refine with Google mentors for the Top 10 round.
-
 ### Common Pitfalls to Avoid
 - **Vague Problem Statement**: Avoid broad goals (e.g., “help the world”)—be specific (e.g., “aid Sindh farmers with flood alerts”).
 - **Missing Google Tech**: Ensure at least one Google tool is central to your project.
@@ -173,7 +154,7 @@ Explore these top 10 projects from previous years for motivation:
 
 ### Google Support and Resources
 - **Free Resources**: Enjoy $300 Google Cloud credits, personalized mentorship, and tutorials at [developers.google.com](https://developers.google.com).
-- **Access Point**: Register and explore at [goo.gle/solutionchallenge](https://goo.gle/solutionchallenge)—contact your GDSC lead for assistance.
+- **Access Point**: Register and explore at [goo.gle/solutionchallenge](https://goo.gle/solutionchallenge)—contact your GDGoC lead for assistance.
 
 ### Pakistan-Specific Project Inspirations
 - **SDG 4 (Quality Education)**: Develop an offline tutoring app for rural Punjab students.
@@ -182,7 +163,7 @@ Explore these top 10 projects from previous years for motivation:
 
 ### Crafting an Effective Demo Video
 - **Structure**: 
-  - **Intro (10 sec)**: “We’re Team EcoTech from GDSC COMSATS Lahore, tackling SDG 13!”
+  - **Intro (10 sec)**: “We’re Team EcoTech from GDGoC COMSATS Lahore, tackling SDG 13!”
   - **Problem (20 sec)**: “Floods in Sindh disrupt farming—farmers need timely alerts.”
   - **Solution (60 sec)**: “Here’s our app with Firebase alerts and Google Maps zones.”
   - **Impact (20 sec)**: “Tested with 20 farmers, aiming to scale regionally.”
@@ -208,7 +189,7 @@ Explore these top 10 projects from previous years for motivation:
 ---
 
 ## Next Steps
-- **Join Now**: Enroll in a GDSC today at [goo.gle/solutionchallenge](https://goo.gle/solutionchallenge).
+- **Join Now**: Enroll in a GDGoC today at [goo.gle/solutionchallenge](https://goo.gle/solutionchallenge).
 - **Start Planning**: Brainstorm with your team and begin prototyping.
 - **Spread the Word**: Share this guide on GitHub, LinkedIn, or WhatsApp to rally your community!
 
