@@ -1,9 +1,6 @@
 # Step 5: Defining the Solution
 
-Congrats on nailing Step 1—identifying a real-world problem tied to the United Nations’ 17 Sustainable Development Goals (SDGs)! Now, it’s time to craft a **winning solution** for the Google Solution Challenge 2025. In this guide, we’ll walk through how to brainstorm, design, and refine a functional tech solution using Google technologies. Let’s turn your problem into an impactful project by **March 28, 2025**!
-
-Written by **Ayesha Javed**, GDGoC ML & AI Co-Lead at COMSATS University Lahore, as of March 15, 2025.
-
+Congrats on nailing Step 1—identifying a real-world problem tied to the United Nations’ 17 Sustainable Development Goals (SDGs)! Now, it’s time to craft a **winning solution** for the Google Solution Challenge 2025. In this guide, we’ll walk through how to brainstorm, design, and refine a functional tech solution using Google technologies. Let’s turn your problem into an impactful project by **30 April, 2025**!
 ---
 
 ## What Does “Defining the Solution” Mean?
@@ -58,11 +55,6 @@ Your solution **must use at least one Google technology**. Here’s how to pick:
 - **Gemini API**: Create smart chatbots (e.g., health advice).
 
 **Mix and Match**: Combine tools if needed (e.g., Flutter + Firebase).
-
-**Example Match**:  
-- Problem: Flood alerts (SDG 13).  
-- Tech: Firebase for real-time notifications, Google Maps to show flood zones.
-
 ---
 
 ### 4. Design the Solution
@@ -73,23 +65,13 @@ Outline how your solution works for users:
   - Nice-to-Have: Extras (e.g., weather forecast).
 - **Tech Role**: Specify how Google tech powers it (e.g., “Firebase pushes alerts”).
 
-**Quick Design Example**:  
-- **App Name**: FloodGuard  
-- **SDG**: 13 (Climate Action)  
-- **User**: Rural farmers in Sindh  
-- **Flow**:  
-  1. Sign up with phone number (Firebase Authentication).  
-  2. Set farm location (Google Maps).  
-  3. Get flood alerts (Firebase Cloud Messaging).  
-- **Features**: Alerts, map view, offline mode.
-
 ---
 
 ### 5. Prototype Early
 Test your idea with a rough version:
 - **Low-Fi**: Draw screens on paper or use Figma.  
 - **Code a Bit**: Try a small Firebase test or Flutter “Hello World.”
-- **Feedback**: Show 3-5 people (friends, GDSC peers)—does it make sense?
+- **Feedback**: Show 3-5 people (friends, GDGoC peers)—does it make sense?
 
 **Why?** Early prototypes catch flaws (e.g., “Farmers won’t get alerts without internet—add offline mode!”).
 
@@ -101,12 +83,6 @@ Make your solution shine for judges:
 - **Scalability**: Could it grow? (e.g., add more regions or SDGs later.)
 - **User-Centric**: Does it fit your audience? (e.g., simple UI for rural users).
 - **Measurable**: Define success (e.g., “Warn 200 farmers in 3 months”).
-
-**Refined Example**:  
-- Original: App with flood alerts.  
-- Refined: Offline-capable app with Firebase alerts and Google Maps, targeting 200 Sindh farmers initially, expandable to Punjab.
-
----
 
 ## Google Tech Spotlight
 Here’s how past winners used Google tools—get inspired!
@@ -162,7 +138,7 @@ Your idea could be the next ATTI or Spoon Share—let’s make it happen!
 ---
 
 ## Next Steps
-With your solution defined, move to **Step 3: Building the Project**. Stay tuned for the next file on coding, testing, and Google tech integration!
+With your solution defined, move to **Step 6: Building the Project**. Stay tuned for the next file on coding, testing, and Google tech integration!
 
 Need help? Share your solution idea with me at [ayshajavd@gmail.com](mailto:ayshajavd@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ayeshajavedgen). Let’s ace the Google Solution Challenge 2025 together!
 

@@ -122,15 +122,6 @@ Judges love passion! Pick a problem you or your community care about deeply—yo
 
 ---
 
-## Team Brainstorming Tips
-If you’re working in a team, try these to pick a problem together:
-- **Round-Robin**: Each member shares one SDG idea—vote on the top 3.
-- **SWOT Analysis**: Assess Strengths, Weaknesses, Opportunities, Threats for each problem.
-- **Local Lens**: Combine personal experiences (e.g., one teammate’s rural hometown struggles).
-- **Skill Match**: Pick a problem that leverages your coder, designer, or presenter’s strengths.
-
----
-
 ## Validation Mini-Experiment
 Before finalizing, test your problem’s relevance:
 - **Quick Survey**: Ask 5-10 people (friends, locals) if they face this issue.
@@ -158,20 +149,9 @@ Before moving to Step 2, tick off these boxes to ensure your problem is solid:
 - [ ] **Solvable**: Can you address it with your skills and Google tech in 2-3 months?
 
 ---
-
-## Action Plan
-1. **Brainstorm**: Write down 3-5 problems you care about tied to SDGs.
-2. **Research**: Check X, news, or talk to people to validate each idea.
-3. **Narrow Down**: Pick one problem based on urgency, feasibility, and passion.
-4. **Define It**: Write a 1-sentence problem statement.  
-   - Example: “Rural Pakistani farmers lack real-time flood alerts, risking crop loss (SDG 13).”
-
----
-
 ## Inspiration Hook
 “Small ideas can change the world—one SDG at a time.”  
-Start here, and by March 28, 2025, your solution could be in Google’s Top 100!
-
+Start here, and by April 30, 2025, your solution could be in Google’s Top 10!
 ---
 
 ## Next Steps

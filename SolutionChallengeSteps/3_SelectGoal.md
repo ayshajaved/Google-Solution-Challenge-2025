@@ -2,7 +2,7 @@
 
 Your team is formed, and you’re officially registered for the **Google Solution Challenge 2025**—fantastic! Now, it’s time to choose a **UN Sustainable Development Goal (SDG)** that will drive your project and make a real difference. This step is your chance to align your passion with a global mission, whether it’s fighting climate change or empowering education. Let’s find the perfect SDG to inspire your journey toward the March 28, 2025 deadline!
 
-Written by **Ayesha Javed**, GDGoC ML & AI Co-Lead at COMSATS University Lahore, as of March 15, 2025.
+Written by **Ayesha Javed**, GDGoC ML & AI Co-Lead at COMSATS University Lahore, as of March 18, 2025.
 
 ---
 
@@ -46,7 +46,7 @@ Follow these steps to pick an SDG that’s right for you and your team:
 ### 2. Assess Feasibility
 - **Skills Match**: Choose an SDG that suits your team’s abilities. If you’re strong in AI, SDG 3 (Health) could use TensorFlow for disease detection.
 - **Resource Availability**: Ensure you can access data or tools (e.g., Google Maps for SDG 11—Sustainable Cities).
-- **Timeline Fit**: With the deadline on March 28, 2025, pick a goal you can address in 6-8 weeks (e.g., a simple app vs. a complex system).
+- **Timeline Fit**: With the deadline on April 30, 2025, pick a goal you can address in 6-8 weeks (e.g., a simple app vs. a complex system).
 
 ### 3. Research and Validate
 - **UN Data**: Visit [sdgs.un.org](https://sdgs.un.org) for statistics (e.g., 70% of Pakistan’s water sources are contaminated, per the Pakistan Council of Research).
@@ -63,7 +63,7 @@ Follow these steps to pick an SDG that’s right for you and your team:
 - **Start Broad, Then Narrow**: Begin with 3-5 SDGs, then focus on one after research.
 - **Leverage Team Strengths**: If someone excels at UI design, lean toward SDGs with app potential (e.g., SDG 4 for education tools).
 - **Inspire with Stories**: Look at past winners—e.g., ATTI (SDG 3) helped dementia patients, sparking your own idea.
-- **Set a Deadline**: Decide by March 20, 2025, to allow time for the next steps.
+- **Set a Deadline**: Decide by april 30, 2025, to allow time for the next steps.
 - **Use Local Examples**: In Pakistan, SDG 13 projects could target flood-prone areas like Sindh, while SDG 6 could focus on Karachi’s water issues.
 
 ## Challenges to Watch For
@@ -77,15 +77,6 @@ Follow these steps to pick an SDG that’s right for you and your team:
 - **SDG 6 (Clean Water and Sanitation)**: Address Karachi’s polluted water with a monitoring system using Google Cloud.
 - **SDG 13 (Climate Action)**: Develop flood alerts for Sindh farmers, leveraging Firebase for real-time updates.
 - **SDG 5 (Gender Equality)**: Create a safety app for women in urban areas like Lahore, integrating Gemini API.
-
-## Quick SDG Selection Example
-- **Team**: “EcoTech Pioneers” (3 members from GDSC LUMS Lahore)
-- **Process**:
-  - Brainstormed: SDG 6 (Water), SDG 13 (Climate), SDG 4 (Education).
-  - Researched: Focused on SDG 13 due to recent Sindh floods.
-  - Validated: Interviewed 5 farmers who confirmed flood alerts’ need.
-- **Goal**: “We’ll address SDG 13 by building a flood alert app for Sindh farmers.”
-- **Next Step**: Move to identifying the problem.
 
 ## Next Steps
 With your SDG selected, you’re ready to dive into **Step 4: Identify a Problem**. This is where your project takes shape! Need guidance on picking an SDG or aligning it with your team’s skills? Contact me at [ayshajavd@gmail.com](mailto:ayshajavd@gmail.com) or [www.linkedin.com/in/ayeshajavedgen](https://www.linkedin.com/in/ayeshajavedgen). Let’s code a solution that changes the world—one SDG at a time!

@@ -39,7 +39,7 @@ Let’s break this down into actionable steps to help you form a strong team and
 - **Visit the Official Site**: Head to [goo.gle/solutionchallenge](https://bit.ly/3DQZ8uq) and find the registration link under “Get Started.”
 - **Fill Out the Form**:
   - **Team Details**: Enter your team name (e.g., “FloodGuard Innovators”), member names, university, and contact info.
-  - **GDSC Affiliation**: Confirm at least one member is part of a GDGoC (e.g., GDGoC COMSATS Lahore).
+  - **GDGoC Affiliation**: Confirm at least one member is part of a GDGoC (e.g., GDGoC COMSATS Lahore).
   - **Consent**: Agree to the challenge rules (e.g., no copied projects, must use Google tech).
 - **Submit Early**: Register by mid-April 2025 to access Google Cloud credits ($300 per team) and mentorship sessions. Late registration might delay your access to resources.
 - **Confirmation**: You’ll receive a confirmation email with next steps, including access to tutorials and a participant dashboard.

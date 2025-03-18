@@ -1,6 +1,6 @@
 # Google Solution Challenge 2025: Your Complete Guide
 
-Welcome to the definitive resource for the **Google Solution Challenge 2025**, a prestigious global competition empowering university students to tackle real-world challenges using Google technologies. Whether you’re new to coding or a seasoned developer, this A-to-Z guide will equip you with everything you need to participate and excel. Crafted by **Ayesha Javed**, GDGoC ML & AI Co-Lead at COMSATS University Lahore, as of **March 15, 2025**.
+Welcome to the definitive resource for the **Google Solution Challenge 2025**, a prestigious global competition empowering university students to tackle real-world challenges using Google technologies. Whether you’re new to coding or a seasoned developer, this A-to-Z guide will equip you with everything you need to participate and excel. Crafted by **Ayesha Javed**, GDGoC ML & AI Co-Lead at COMSATS University Lahore, as of **March 18, 2025**.
 
 ---
 
