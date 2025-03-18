@@ -9,7 +9,7 @@ Welcome to the definitive resource for the **Google Solution Challenge 2025**, a
 ### What is the Google Solution Challenge?
 - **Overview**: The Google Solution Challenge 2025 is an annual competition hosted by Google, inviting university students worldwide to develop innovative, functional projects—such as apps, websites, or hybrid solutions—using at least one Google technology (e.g., Firebase, TensorFlow, Google Cloud). These projects must address a pressing issue aligned with the United Nations’ 17 Sustainable Development Goals (SDGs), including poverty reduction, healthcare improvement, or climate action.
 - **Mission**: This challenge aims to enhance your technical skills, foster collaboration (or solo effort), and drive meaningful global or local impact by 2030.
-- **Target Audience**: Open to all university students (undergraduate or graduate) affiliated with a Google Developer Student Club (GSC) or eager to join one. No prior experience is necessary—everyone is welcome!
+- **Target Audience**: Open to all university students (undergraduate or graduate) affiliated with a Google Developer Student Club (GDGoC) or eager to join one. No prior experience is necessary—everyone is welcome!
 
 ### What Should You Build?
 - **Requirement**: You must create a **functional solution**—a working tech product (e.g., a mobile app, web platform, or hardware-software integration) that tackles an SDG-related problem, not just a theoretical concept.
@@ -69,8 +69,8 @@ The SDGs are 17 interconnected goals established by the United Nations in 2015 t
 ### Submission Requirements
 - **Components**:
   1. **Demo Video**: A 2-minute video (uploaded to YouTube, public or unlisted) demonstrating your project in action—show functionality, user interaction, and Google tech usage.
-  2. **Project Form**: Complete the form at [goo.gle/solutionchallenge](https://goo.gle/solutionchallenge) with:
-     - Team details (names, university, contact info, GDSC affiliation).
+  2. **Project Form**: Complete the form at [goo.gle/solutionchallenge](https://bit.ly/3DQZ8uq) with:
+     - Team details (names, university, contact info, GDGoC affiliation).
      - Project overview (SDG, Google tech, problem addressed).
      - Links to your YouTube video and GitHub repo.
 
@@ -80,7 +80,7 @@ The SDGs are 17 interconnected goals established by the United Nations in 2015 t
 
 ### GDSC Membership Requirement
 - **Mandatory**: At least one team member must be part of a GDGoC by the submission deadline(30 April)
-- **How to Join**: Sign up via [goo.gle/solutionchallenge](https://goo.gle/solutionchallenge) or connect with a nearby GDGoC (e.g., COMSATS Lahore, NUST Islamabad).
+- **How to Join**: Sign up via [goo.gle/solutionchallenge](https://bit.ly/3DQZ8uq) or connect with a nearby GDGoC (e.g., COMSATS Lahore, NUST Islamabad).
 - **GDG vs. GDSC**: GDG is for professionals; GDGoC is student-focused—this requires GDSC affiliation.
 
 ### Judging Criteria
@@ -154,7 +154,7 @@ Explore these top 10 projects from previous years for motivation:
 
 ### Google Support and Resources
 - **Free Resources**: Enjoy $300 Google Cloud credits, personalized mentorship, and tutorials at [developers.google.com](https://developers.google.com).
-- **Access Point**: Register and explore at [goo.gle/solutionchallenge](https://goo.gle/solutionchallenge)—contact your GDGoC lead for assistance.
+- **Access Point**: Register and explore at [goo.gle/solutionchallenge](https://bit.ly/3DQZ8uq)—contact your GDGoC lead for assistance.
 
 ### Pakistan-Specific Project Inspirations
 - **SDG 4 (Quality Education)**: Develop an offline tutoring app for rural Punjab students.
@@ -182,14 +182,14 @@ Explore these top 10 projects from previous years for motivation:
 - **Local Research**: Explore SDG challenges in Pakistan (e.g., water scarcity, education gaps) to fuel your passion.
 
 ### Frequently Asked Questions (FAQs)
-- **No GDSC at My University?**: Join a nearby chapter or start one—apply via [goo.gle/solutionchallenge](https://goo.gle/solutionchallenge).
+- **No GDSC at My University?**: Join a nearby chapter or start one
 - **Can I Pivot My Idea?**: Yes, adjust before submission—experiment early to find the best fit.
 - **Do I Need a Deployed App?**: Not required, but a live demo (e.g., on a phone) strengthens your case.
 
 ---
 
 ## Next Steps
-- **Join Now**: Enroll in a GDGoC today at [goo.gle/solutionchallenge](https://goo.gle/solutionchallenge).
+- **Join Now**: Enroll in a GDGoC today
 - **Start Planning**: Brainstorm with your team and begin prototyping.
 - **Spread the Word**: Share this guide on GitHub, LinkedIn, or WhatsApp to rally your community!
 
