@@ -9,7 +9,7 @@ Welcome to the definitive resource for the **Google Solution Challenge 2025**, a
 ### What is the Google Solution Challenge?
 - **Overview**: The Google Solution Challenge 2025 is an annual competition hosted by Google, inviting university students worldwide to develop innovative, functional projects—such as apps, websites, or hybrid solutions—using at least one Google technology (e.g., Firebase, TensorFlow, Google Cloud). These projects must address a pressing issue aligned with the United Nations’ 17 Sustainable Development Goals (SDGs), including poverty reduction, healthcare improvement, or climate action.
 - **Mission**: This challenge aims to enhance your technical skills, foster collaboration (or solo effort), and drive meaningful global or local impact by 2030.
-- **Target Audience**: Open to all university students (undergraduate or graduate) affiliated with a Google Developer Student Club (GDGoC) or eager to join one. No prior experience is necessary—everyone is welcome!
+- **Target Audience**: Open to all university students (undergraduate or graduate) affiliated with a Google Developer Group on Campus (GDGoC) or eager to join one. No prior experience is necessary—everyone is welcome!
 
 ### What Should You Build?
 - **Requirement**: You must create a **functional solution**—a working tech product (e.g., a mobile app, web platform, or hardware-software integration) that tackles an SDG-related problem, not just a theoretical concept.
@@ -78,10 +78,9 @@ The SDGs are 17 interconnected goals established by the United Nations in 2015 t
 - **Solo or Team**: Teams can have 1-4 members, so solo participation is allowed.
 - **One Entry Per Person**: You cannot submit both solo and as part of a team—choose one entry per year.
 
-### GDSC Membership Requirement
+### GDGoC Membership Requirement
 - **Mandatory**: At least one team member must be part of a GDGoC by the submission deadline(30 April)
 - **How to Join**:Connect with a nearby GDGoC (e.g., COMSATS Lahore, NUST Islamabad).
-- **GDG vs. GDSC**: GDG is for professionals; GDGoC is student-focused—this requires GDSC affiliation.
 
 ### Judging Criteria
 - **Evaluation**: Projects are scored on:
@@ -182,7 +181,7 @@ Explore these top 10 projects from previous years for motivation:
 - **Local Research**: Explore SDG challenges in Pakistan (e.g., water scarcity, education gaps) to fuel your passion.
 
 ### Frequently Asked Questions (FAQs)
-- **No GDSC at My University?**: Join a nearby chapter or start one
+- **No GDGoC at My University?**: Join a nearby chapter or start one
 - **Can I Pivot My Idea?**: Yes, adjust before submission—experiment early to find the best fit.
 - **Do I Need a Deployed App?**: Not required, but a live demo (e.g., on a phone) strengthens your case.
 
