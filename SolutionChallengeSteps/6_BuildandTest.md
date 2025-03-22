@@ -1,6 +1,6 @@
 # Step 6: Build and Test Your Solution
 
-You’ve defined an amazing solution for your chosen UN Sustainable Development Goal (SDG)—congratulations! Now, it’s time to bring it to life in **Step 6: Build and Test Your Solution** for the Google Solution Challenge 2025. This step transforms your idea into a functional project using Google technologies, followed by rigorous testing to ensure it solves the problem. Let’s roll up our sleeves and make it happen by April 30, 2025!
+You’ve defined an amazing solution for your chosen Theme! Now, it’s time to bring it to life in **Step 6: Build and Test Your Solution** for the Google Solution Challenge 2025. This step transforms your idea into a functional project using Google technologies, followed by rigorous testing to ensure it solves the problem. Let’s roll up our sleeves and make it happen by April 30, 2025!
 
 ---
 
@@ -16,7 +16,7 @@ Building and testing are the backbone of a successful Google Solution Challenge 
 Follow these detailed steps to develop and validate your project.
 
 ### 1. Plan Your Build
-- **Break It Down**: Divide your solution into manageable parts. For a flood alert app (SDG 13), plan: UI design, backend data storage, and alert system.
+- **Break It Down**: Divide your solution into manageable parts. For a flood alert app, plan: UI design, backend data storage, and alert system.
 - **Assign Tasks**: Leverage team roles from Step 2. E.g., the designer works on UI with Flutter, the coder sets up Firebase for alerts.
 - **Choose Google Tech**:
   - **Firebase**: For real-time data (e.g., user accounts, notifications).
@@ -28,8 +28,8 @@ Follow these detailed steps to develop and validate your project.
 
 ### 2. Build the Solution
 - **Start with UI**: Use Flutter to design an intuitive interface. For example, create a simple screen with a map and alert button for a flood app.
-- **Develop the Backend**: Set up Firebase to store user data or send push notifications. For a water quality tracker (SDG 6), use Google Cloud to process sensor data.
-- **Integrate Features**: Add Google tech as planned. E.g., use TensorFlow to analyze images for a health app (SDG 3).
+- **Develop the Backend**: Set up Firebase to store user data or send push notifications. For a water quality tracker, use Google Cloud to process sensor data.
+- **Integrate Features**: Add Google tech as planned. E.g., use TensorFlow to analyze images for a health app.
 - **Code Best Practices**:
   - Write clean, commented code on GitHub.
   - Use version control (e.g., commit daily: “Added Firebase integration”).
@@ -53,7 +53,7 @@ Follow these detailed steps to develop and validate your project.
 ## Practical Tips for Success
 - **Start Small**: Build a minimum viable product (MVP) first—e.g., a basic alert app—then add features.
 - **Leverage GDGoC Support**: Ask your mentor for code reviews or debugging help during GDGoC sessions.
-- **Use Local Context**: In Pakistan, test with rural users (e.g., Punjab farmers for SDG 4) to ensure relevance.
+- **Use Local Context**: In Pakistan, test with rural users (e.g., Punjab farmers) to ensure relevance.
 - **Time Management**: Allocate 2 weeks for building and 1 week for testing.
 - **Document Progress**: Share weekly updates on GitHub or WhatsApp to keep your team aligned.
 
@@ -62,11 +62,6 @@ Follow these detailed steps to develop and validate your project.
 - **Testing Delays?**: If users are hard to reach, use GDSC peers as a proxy and plan real-world tests later.
 - **Bugs Galore?**: Use online forums (e.g., Stack Overflow) or GDSC mentors to troubleshoot.
 - **Internet Issues?**: Test offline features (e.g., with Flutter) if connectivity is spotty in rural Pakistan.
-
-## Pakistan-Specific Build and Test Ideas
-- **SDG 4 (Quality Education)**: Build an offline learning app with Flutter, test with rural Punjab students to ensure it works without internet.
-- **SDG 6 (Clean Water)**: Develop a water quality tracker with Google Cloud, test with Karachi residents using local water samples.
-- **SDG 13 (Climate Action)**: Create a flood alert system with Firebase, test with Sindh farmers to verify alert accuracy.
 
 ## Next Steps
 With your solution built and tested, you’re almost there! Proceed to **Step 7: Iterate and Submit** to refine your project and submit your demo video.
