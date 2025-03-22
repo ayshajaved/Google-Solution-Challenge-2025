@@ -1,7 +1,9 @@
 # Google Solution Challenge 2025: A Winning Guide 🚀
 
-Welcome to the ultimate resource hub for the **Google Solution Challenge 2025**! This repository, crafted by **Ayesha Javed**, GDGoC ML & AI Co-Lead at COMSATS University Lahore, is your one-stop guide to conquering this global competition. Whether you're a beginner or a seasoned coder, these step-by-step files will help you ideate, build, and submit a standout project using Google technologies to tackle the United Nations’ 17 Sustainable Development Goals (SDGs).
+Welcome to the ultimate resource hub for the **Google Solution Challenge 2025**! This repository, crafted by **Ayesha Javed**, GDGoC ML & AI Co-Lead at COMSATS University Lahore, is your one-stop guide to conquering this global competition. Whether you're a beginner or a seasoned coder, these step-by-step files will help you ideate, build, and submit a standout project using Google technologies aligning Themes
 
+## Themes
+![alt text](Themes.png)
 ---
 
 ## 🌟 What’s This About?
@@ -20,12 +22,12 @@ Here’s the 9-step roadmap to your Google Solution Challenge victory:
    - Build your dream team (1-4 members) and sign up at [goo.gle/solutionchallenge](https://bit.ly/3DQZ8uq), for the challenge.  
    - Tips on team roles, registration, and collaboration tools
 
-3. **Step 3: Select a UN Sustainable Development Goal**  
-   - Pick an SDG that inspires you—from ending poverty to fighting climate change.  
+3. **Step 3: Select a Theme**  
+   - Pick an theme that inspires you—from ending poverty to fighting climate change.  
    - Includes SDG examples and how to align your passion with global goals.
 
 4. **Step 4: Identify a Solution**  
-   - Brainstorm a practical tech solution to address your chosen SDG problem.  
+   - Brainstorm a practical tech solution to address your chosen theme problem.  
    - Features examples, research tips, and a checklist to nail your idea.
 
 5. **Step 5: Design the User Interface**  
@@ -74,7 +76,7 @@ Here’s the 9-step roadmap to your Google Solution Challenge victory:
 ---
 
 ## 🌍 Let’s Make an Impact
-The deadline’s **April 30, 2025**—plenty of time to create something amazing. Whether it’s an app for rural education or a tool to fight climate change, your solution could land in Google’s Top 100 or even win big (up to $3,000 per team member for Top 3!).
+The deadline’s **April 30, 2025**—plenty of time to create something amazing. Whether it’s an app for rural education or a tool to fight climate change, your solution could land in Google’s Top 100 or even win big ($5000).
 
 ---
 
