@@ -1,11 +1,11 @@
 # Step 5: Defining the Solution
 
-Congrats on nailing Step 1—identifying a real-world problem tied to the United Nations’ 17 Sustainable Development Goals (SDGs)! Now, it’s time to craft a **winning solution** for the Google Solution Challenge 2025. In this guide, we’ll walk through how to brainstorm, design, and refine a functional tech solution using Google technologies. Let’s turn your problem into an impactful project by **30 April, 2025**!
+Congrats on nailing Step 1—identifying a real-world problem tied to the theme. Now, it’s time to craft a **winning solution** for the Google Solution Challenge 2025. In this guide, we’ll walk through how to brainstorm, design, and refine a functional tech solution using Google technologies. Let’s turn your problem into an impactful project by **30 April, 2025**!
 ---
 
 ## What Does “Defining the Solution” Mean?
 This step is about creating a **practical, tech-driven fix** for your chosen problem. Your solution must:
-- **Solve the Problem**: Directly address the SDG issue you picked (e.g., flood alerts for SDG 13).
+- **Solve the Problem**: Directly address the theme issue you picked (e.g., flood alerts).
 - **Use Google Tech**: Integrate at least one Google tool (e.g., Firebase, TensorFlow).
 - **Be Functional**: Work in real life—not just a concept—by the submission deadline.
 - **Have Impact**: Make a measurable difference for your target users.
@@ -22,7 +22,7 @@ Start with your problem statement from Step 1 (e.g., “Rural Pakistani farmers 
 - **Team Up**: If you’re in a group, each member suggests one idea—then vote!
 
 **Example Brainstorm**:  
-- Problem: Rural kids lack education access (SDG 4).  
+- Problem: Rural kids lack education access  
 - Ideas:  
   - A Flutter app with offline lessons.  
   - A TensorFlow chatbot to teach coding.  
@@ -40,7 +40,7 @@ Narrow down your brainstorm list using these criteria:
 **Pro Tip**: Sketch a quick flowchart or app screen on paper—does it feel doable and exciting?
 
 **Example Choice**:  
-- Idea: App with flood alerts (SDG 13).  
+- Idea: App with flood alerts 
 - Why? Feasible with Firebase for alerts, Google Maps for locations, and my basic coding skills.
 
 ---
@@ -96,29 +96,21 @@ Here’s how past winners used Google tools—get inspired!
 
 ## Pakistan-Specific Solution Ideas
 Tie your solution to local needs:
-- **SDG 4 (Education)**: Flutter app with offline coding lessons for rural girls.  
-- **SDG 6 (Water)**: Google Cloud system to track Lahore canal pollution.  
-- **SDG 13 (Climate)**: Firebase-powered flood alert app for Sindh farmers.
-
----
-
-## Common Mistakes to Avoid
-- **No Google Tech**: Judges will disqualify if it’s missing—double-check!
-- **Too Complex**: A working app beats a half-done “revolutionary” idea.
-- **Ignoring Users**: Design for your audience (e.g., rural users need offline access).
-- **Vague Impact**: “Helps everyone” won’t cut it—be specific.
+- **(Education)**: Flutter app with offline coding lessons for rural girls.  
+- **(Water)**: Google Cloud system to track Lahore canal pollution.  
+- **(Climate)**: Firebase-powered flood alert app for Sindh farmers.
 
 ---
 
 ## Solution Definition Checklist
 Before coding in Step 3, ensure your solution is ready:
-- [ ] **SDG-Aligned**: Fixes your Step 1 problem?
+- [ ] **theme-Aligned**: Fixes your Step 1 problem?
 - [ ] **Google Tech**: Uses at least one tool clearly?
 - [ ] **Functional**: Can you build a working version by March 28?
 - [ ] **User-Focused**: Solves a real need for your target group?
 - [ ] **Defined**: One-sentence pitch ready?
 
-**Example Pitch**: “FloodGuard uses Firebase to send flood alerts to Sindh farmers, saving crops (SDG 13).”
+**Example Pitch**: “FloodGuard uses Firebase to send flood alerts to Sindh farmers, saving crops.”
 
 ---
 
