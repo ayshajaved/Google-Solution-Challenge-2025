@@ -7,7 +7,7 @@ Welcome to the definitive resource for the **Google Solution Challenge 2025**, a
 ## Part 1: Understanding the Google Solution Challenge 2025
 
 ### What is the Google Solution Challenge?
-- **Overview**: The Google Solution Challenge 2025 is an annual competition hosted by Google, inviting university students worldwide to develop innovative, functional projects—such as apps, websites, or hybrid solutions—using at least one Google technology (e.g., Firebase, TensorFlow, Google Cloud). These projects must address a pressing issue aligned with the United Nations’ 17 Sustainable Development Goals (SDGs), including poverty reduction, healthcare improvement, or climate action.
+- **Overview**: The Google Solution Challenge 2025 is an annual competition hosted by Google, inviting university students worldwide to develop innovative, functional projects—such as apps, websites, or hybrid solutions—using at least one Google technology (e.g., Firebase, TensorFlow, Google Cloud). These projects must address a pressing issue aligned with the Themes, including poverty reduction, healthcare improvement, or climate action.
 - **Mission**: This challenge aims to enhance your technical skills, foster collaboration (or solo effort), and drive meaningful global or local impact by 2030.
 - **Target Audience**: Open to all university students (undergraduate or graduate) affiliated with a Google Developer Group on Campus (GDGoC) or eager to join one. No prior experience is necessary—everyone is welcome!
 
@@ -18,32 +18,7 @@ Welcome to the definitive resource for the **Google Solution Challenge 2025**, a
   - A tool tracking carbon footprints in urban Pakistan (SDG 13: Climate Action).
   - An AI-powered health diagnostic tool for remote areas (SDG 3: Good Health and Well-being).
 
-### Exploring the 17 Sustainable Development Goals (SDGs)
-The SDGs are 17 interconnected goals established by the United Nations in 2015 to transform the world by 2030. Here’s the complete list to ignite your creativity:
-1. **No Poverty**: Eliminate poverty in all forms.
-2. **Zero Hunger**: Ensure access to nutritious food for all.
-3. **Good Health and Well-being**: Enhance health outcomes for all ages.
-4. **Quality Education**: Provide inclusive and equitable education.
-5. **Gender Equality**: Empower all women and girls.
-6. **Clean Water and Sanitation**: Guarantee safe water and sanitation.
-7. **Affordable and Clean Energy**: Promote sustainable energy access.
-8. **Decent Work and Economic Growth**: Foster inclusive economic growth.
-9. **Industry, Innovation, and Infrastructure**: Develop resilient infrastructure.
-10. **Reduced Inequalities**: Reduce disparities within and across nations.
-11. **Sustainable Cities and Communities**: Create safe, sustainable urban areas.
-12. **Responsible Consumption and Production**: Encourage sustainable resource use.
-13. **Climate Action**: Combat climate change urgently.
-14. **Life Below Water**: Protect marine ecosystems.
-15. **Life on Land**: Preserve terrestrial biodiversity.
-16. **Peace, Justice, and Strong Institutions**: Promote peaceful, just societies.
-17. **Partnerships for the Goals**: Strengthen global cooperation.
-- **Your Task**: Select one or more SDGs and design a solution for a related challenge!
-
-### Innovative Solution Ideas
-- **SDG 1 (No Poverty)**: A platform linking job seekers with micro-enterprises in rural Pakistan.
-- **SDG 3 (Good Health)**: An AI app diagnosing common illnesses using TensorFlow.
-- **SDG 6 (Clean Water)**: A system monitoring river pollution in the Indus River basin.
-- **SDG 11 (Sustainable Cities)**: A safety app with real-time alerts for Karachi commuters.
+![alt text](image.png)
 
 ### Leveraging Google Technologies
 - **Integration**: Incorporate at least one Google tool to power your project. Examples include:
@@ -75,18 +50,15 @@ The SDGs are 17 interconnected goals established by the United Nations in 2015 t
      - Links to your YouTube video and GitHub repo.
 
 ### Participation Rules
-- **Solo or Team**: Teams can have 1-4 members, so solo participation is allowed.
-- **One Entry Per Person**: You cannot submit both solo and as part of a team—choose one entry per year.
+- **Team**: Teams can have upto 1-4 members, so solo participation is allowed.
+- **One Entry Per Person**: You can submit as a part of a team—choose one entry per year.
 
 ### GDGoC Membership Requirement
 - **Mandatory**: At least one team member must be part of a GDGoC by the submission deadline(30 April)
 - **How to Join**:Connect with a nearby GDGoC (e.g., COMSATS Lahore, NUST Islamabad).
 
 ### Judging Criteria
-- **Evaluation**: Projects are scored on:
-  - **Impact (50%)**: Does it effectively address the SDG? Is the solution clear, measurable, and impactful?
-  - **Technology (50%)**: How well is Google tech integrated? Is the solution innovative and scalable?
-- **Focus Areas**: Judges assess problem definition, user feedback, technical implementation, and future potential.
+![alt text](image-1.png)
 
 ### Inspirational Past Winning Projects
 Explore these top 10 projects from previous years for motivation:
@@ -156,9 +128,9 @@ Explore these top 10 projects from previous years for motivation:
 - **Access Point**: Register and explore at [goo.gle/solutionchallenge](https://bit.ly/3DQZ8uq)—contact your GDGoC lead for assistance.
 
 ### Pakistan-Specific Project Inspirations
-- **SDG 4 (Quality Education)**: Develop an offline tutoring app for rural Punjab students.
-- **SDG 6 (Clean Water and Sanitation)**: Create a water quality monitoring tool for Karachi’s rivers.
-- **SDG 13 (Climate Action)**: Build a flood warning system for Sindh farmers.
+- **(Quality Education)**: Develop an offline tutoring app for rural Punjab students.
+- **(Clean Water and Sanitation)**: Create a water quality monitoring tool for Karachi’s rivers.
+- **(Climate Action)**: Build a flood warning system for Sindh farmers.
 
 ### Crafting an Effective Demo Video
 - **Structure**: 
