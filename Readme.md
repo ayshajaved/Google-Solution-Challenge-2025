@@ -3,7 +3,7 @@
 Welcome to the ultimate resource hub for the **Google Solution Challenge 2025**! This repository, crafted by **Ayesha Javed**, GDGoC ML & AI Co-Lead at COMSATS University Lahore, is your one-stop guide to conquering this global competition. Whether you're a beginner or a seasoned coder, these step-by-step files will help you ideate, build, and submit a standout project using Google technologies aligning Themes
 
 ## Themes
-![alt text](Themes.png)
+![alt text](Images/Themes.png)
 ---
 
 ## 🌟 What’s This About?

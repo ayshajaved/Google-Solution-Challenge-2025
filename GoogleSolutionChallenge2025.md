@@ -18,7 +18,7 @@ Welcome to the definitive resource for the **Google Solution Challenge 2025**, a
   - A tool tracking carbon footprints in urban Pakistan (SDG 13: Climate Action).
   - An AI-powered health diagnostic tool for remote areas (SDG 3: Good Health and Well-being).
 
-![alt text](Themes.png)
+![alt text](Images/Themes.png)
 
 ### Leveraging Google Technologies
 - **Integration**: Incorporate at least one Google tool to power your project. Examples include:
@@ -58,7 +58,7 @@ Welcome to the definitive resource for the **Google Solution Challenge 2025**, a
 - **How to Join**:Connect with a nearby GDGoC (e.g., COMSATS Lahore, NUST Islamabad).
 
 ### Judging Criteria
-![alt text](JudgingCriteria.png)
+![alt text](Images/JudgingCriteria.png)
 
 ### Inspirational Past Winning Projects
 Explore these top 10 projects from previous years for motivation:
